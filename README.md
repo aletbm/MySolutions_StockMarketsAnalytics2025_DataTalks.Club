@@ -20,4 +20,43 @@ The **Stock Market Analytics Zoomcamp** is a practical, hands-on program designe
 - **Module 4: Trading Strategy and Simulation**  
   Design, test, and simulate rule-based trading strategies including portfolio optimization and risk management.
 
-- **Module 5: Deployment and**
+- **Module 5: Deployment and Automation**  
+  Learn how to automate workflows, transition from notebooks to production-ready scripts, and deploy trading strategies.
+
+---
+
+## Repository Contents
+
+- Homework assignments from each module  
+- Python scripts and notebooks demonstrating data extraction, processing, and modeling  
+- Exploratory analyses and visualizations of IPOs, stock prices, and technical indicators  
+- Implementation of trading strategies including RSI-based oversold signals  
+- Documentation and notes on lessons learned  
+
+---
+
+## How to Use This Repository
+
+- Explore each module’s folder to see my solutions and experiments.  
+- Review the code to understand how to handle real financial data, engineer features, and build trading models.  
+- Follow along with the evolving project that consolidates the course teachings into a practical trading strategy.
+
+---
+
+## Useful Links and Resources
+
+- Course Livestream: PythonInvest YouTube Channel — [2025 Stock Market Analytics Zoomcamp Playlist](#)  
+- Course Slack Community: Join DataTalks.Club and the `#course-stocks-analytics-zoomcamp` channel  
+- Course Telegram Announcements Channel (link in course materials)  
+- Weekly Market News and Insights: [PythonInvest Financial News Feed](https://pythoninvest.com/)  
+- Recommended Reading List included in course materials  
+
+---
+
+## About Me
+
+I am passionate about applying Python and data science techniques to financial markets. This repository documents my learning journey through the 2025 cohort, where I’m gaining hands-on skills in stock market data analytics and strategy development.
+
+---
+
+Feel free to reach out or contribute if you have suggestions or improvements!
