@@ -45,8 +45,8 @@ The **Stock Market Analytics Zoomcamp** is a practical, hands-on program designe
 
 ## Useful Links and Resources
 
-- Course Livestream: PythonInvest YouTube Channel — [2025 Stock Market Analytics Zoomcamp Playlist](#)  
-- Course Slack Community: Join DataTalks.Club and the `#course-stocks-analytics-zoomcamp` channel  
+- Course Livestream: PythonInvest YouTube Channel — [2025 Stock Market Analytics Zoomcamp Playlist](https://www.youtube.com/@pythoninvest)  
+- Course Slack Community: [Join DataTalks.Club](https://datatalks.club/slack.html) and the `#course-stocks-analytics-zoomcamp` channel  
 - Course Telegram Announcements Channel (link in course materials)  
 - Weekly Market News and Insights: [PythonInvest Financial News Feed](https://pythoninvest.com/)  
 - Recommended Reading List included in course materials  
